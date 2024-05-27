@@ -71,7 +71,7 @@ bot.start(async(ctx)=>{
                     
                 ],
                 [
-                    Markup.button.url("Join community", "t.me/+5TH8oq-bSEhmYjM0")
+                    Markup.button.url("Join community", "t.me/Ton_mango_page")
                     
                 ],
                 [
